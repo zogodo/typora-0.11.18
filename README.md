@@ -12,5 +12,7 @@ Click to download:
 
 [![win64](https://img.shields.io/badge/MacOS-dmg-orange)](https://github.com/zogodo/typora-0.11.18/raw/master/Typora-0.11.18.dmg)
 
+[Typora 最后免费版本也不能用了？简单一招搞定](https://xiaoniuhululu.com/2022-07-28_Typora_isExpired_deal/)
+
 ---
 
